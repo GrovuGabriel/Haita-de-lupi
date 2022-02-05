@@ -1,0 +1,16 @@
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\bin\Release\Haita de lupi.exe.config
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\bin\Release\Haita de lupi.exe
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\bin\Release\Haita de lupi.pdb
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita de lupi.csproj.AssemblyReference.cache
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.button.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Form2.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.mort.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Form4.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Form5.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Form6.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Form7.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita_de_lupi.Properties.Resources.resources
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita de lupi.csproj.GenerateResource.cache
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita de lupi.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita de lupi.exe
+C:\Users\Gabi\Documents\Atestat Grovu Gabriel\Haita de lupi\Haita de lupi\obj\Release\Haita de lupi.pdb
